@@ -1,2 +1,1 @@
-# precurso-henry-clase-en-vivo
-este es un repositorio de clases en vivo de proyecto henry
+este es un proyecto de prueba de como crear un repositorio y clonarlo desde github a mi escritoprio local
